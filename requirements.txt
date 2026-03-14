@@ -1,0 +1,14 @@
+opencv-python
+numpy
+Pillow
+pyautogui
+pygetwindow
+keyboard
+customtkinter
+easyocr
+mss
+psutil
+pywin32
+setuptools
+Cython
+pyinstaller

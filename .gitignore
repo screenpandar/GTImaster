@@ -1,0 +1,34 @@
+# 构建与发布产物
+release/
+build/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统与临时
+.DS_Store
+Thumbs.db
+*.log
+
+# 项目本地配置（若有）
+*.local
