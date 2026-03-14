@@ -1,14 +1,21 @@
-# GTImaster
+# 项目简介(求Star!)
 
 基于 OCR 与键鼠操作的三角洲行动交易行自动工具，支持常规模式与实时检测模式，支持定时运行，定时关机。
 
 ---
+## 免责声明
 
-## 快速部署
+本工具仅供学习与技术交流使用。使用前请了解并遵守相关游戏的服务条款与当地法律法规，使用本软件所产生的一切后果由使用者自行承担。
+
+## 一键启动(用户)
+- 直接下载右侧release发行版本
+
+## 快速部署(开发者)
 克隆仓库:
-   ```bash
-   git clone https://github.com/screenpandar/GTImaster.git
-   ```
+
+```bash
+git clone https://github.com/screenpandar/GTImaster.git
+```
 在项目根目录双击 **`一键部署.bat`** 即可完成：
 
 1. **复制 .EasyOCR** — 将当前目录下的 `.EasyOCR` 文件夹复制到用户目录（`%USERPROFILE%\.EasyOCR`），供 EasyOCR 使用；
