@@ -65,7 +65,7 @@ def create_main_window(app_state):
     interval_entry.insert(0, "0.3")
     ctk.CTkLabel(interval_frame, text="(不建议低于0.1，可能会被警告)").pack(side="left", padx=5)
 
-    start_button = ctk.CTkButton(main_frame, text="开始")
+    start_button = ctk.CTkButton(main_frame, text="开始(F12停止)")
     start_button.pack(pady=10)
 
     info_frame = ctk.CTkFrame(main_frame)
