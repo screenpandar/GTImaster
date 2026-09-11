@@ -21,7 +21,6 @@ env/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -32,3 +31,5 @@ Thumbs.db
 
 # 项目本地配置（若有）
 *.local
+config.bat
+node_modules
