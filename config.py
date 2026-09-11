@@ -21,7 +21,7 @@ ITEM_POS_LIST_BASE = [
 ]
 
 # 常规模式中用于“消除卡顿刷新”的坐标
-RECTIFY_CLICK_POS_1_BASE = (320, 480)
+RECTIFY_CLICK_POS_1_BASE = (320, 450)
 RECTIFY_CLICK_POS_2_BASE = (320, 270)
 
 # 实时检测模式 / RealTimeDetector 相关
